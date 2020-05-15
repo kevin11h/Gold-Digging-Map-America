@@ -2,6 +2,17 @@
 
 # https://www.visualcapitalist.com/map-shows-average-income-top-1-percent-location/
 
+1. San Mateo
+2. Douglas NV
+3. Teton WY
+4. Monaco
+5.Switzerland
+6. Switzerland, Zurich
+7.Oslo Norway
+8.Amsterdam
+9. Latvia
+10. Singpaore
+
 
 
 # https://datausa.io/profile/geo/teton-county-wy
